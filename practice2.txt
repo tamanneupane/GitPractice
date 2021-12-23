@@ -1,1 +1,1 @@
-This is second file that has been changed from github directly.
+This is second file that has been changed from github directly in develop branch.
