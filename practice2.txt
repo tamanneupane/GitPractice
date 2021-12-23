@@ -1,1 +1,1 @@
-This is second file that has been changed from github directly second time.
+This is second file that has been changed from github directly some change has been made.
